@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datos y modelos (no subir al repositorio)
+data/
+*.h5
+*.pth
+*.pt
+
+# Sistema
+.DS_Store
